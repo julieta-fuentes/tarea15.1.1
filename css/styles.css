@@ -1,0 +1,21 @@
+#lorem{
+    text-decoration : none;
+}
+
+.carousel-item{
+    transition: 2s;
+}
+
+.bg-light{
+    text-align: justify;
+}
+
+#carousel{
+    width: 45%;
+}
+
+@media only screen and (max-width: 1024px){
+    #carousel{
+        width: 100%;
+    }
+}
